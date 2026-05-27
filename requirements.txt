@@ -1,0 +1,5 @@
+docling>=1.0.0
+docling_core>=1.0.0
+pillow>=10.0.0
+python-json-logger>=2.0.7
+pydantic>=2.0.0
